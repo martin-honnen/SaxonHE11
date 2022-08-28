@@ -3,6 +3,8 @@
     <output-path>$PROJECT_DIR$/out/artifacts/SaxonHE11_jar</output-path>
     <root id="archive" name="SaxonHE11.jar">
       <element id="module-output" name="SaxonHE11" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Saxonica/SaxonHE11-4J/lib/xmlresolver-4.4.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Saxonica/SaxonHE11-4J/lib/xmlresolver-4.4.3-data.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
